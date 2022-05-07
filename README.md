@@ -5,7 +5,7 @@
 nimble install tmpnim
 
 ### USAGE:
-``` 
+```nim
 import tmpnim
 echo createRamdisk("/home/turtle/fundirectory", 4096) #create a ramdisk of 4kb in the specified directory
 #if everything goes fine it will return true
