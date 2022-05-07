@@ -9,7 +9,7 @@ nimble install tmpnim
 import tmpnim
 echo createRamdisk("/home/turtle/fundirectory", 4096) #create a ramdisk of 4kb in the specified directory
 #if everything goes fine it will return true
-echo removeRamdisk("/home/turtle/fundirectory")
+echo removeRamdisk("/home/turtle/fundirectory") #remove the specified ramdisk, closing the program won't remove it automatically.
 #same thing, if it returns true everything's fine.
 ```
 
