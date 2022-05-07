@@ -1,7 +1,7 @@
 # Package
 
 version       = "1.0.0"
-author        = "Robbie", "ment1na"
+author        = "Robbie, ment1na"
 description   = "Create and remove ramdisks easily"
 license       = "MPL-2.0"
 srcDir        = "src"
