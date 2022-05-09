@@ -20,9 +20,9 @@ echo removeRamdisk("/home/turtle/fundirectory") #remove the specified ramdisk, c
 
 ❌MacOS
 
-❌FreeBSD
+✅BSD 
 
-❓Android
+✅Android (Root required)
 
 **If you encounter any problem please report it in the issue page, pull requests are accepted**
 
